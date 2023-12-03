@@ -1,3 +1,4 @@
-export default LoginPage = () => {
-	return <>Login page</>;
+const LoginPage = () => {
+	return <>LoginPage</>;
 };
+export default LoginPage;

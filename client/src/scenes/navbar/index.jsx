@@ -1,3 +1,4 @@
-export default Navbar = () => {
+const Navbar = () => {
 	return <>Navbar</>;
 };
+export default Navbar;

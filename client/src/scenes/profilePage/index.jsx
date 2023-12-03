@@ -1,3 +1,4 @@
-export default ProfilePage = () => {
+const ProfilePage = () => {
 	return <>Profilepage</>;
 };
+export default ProfilePage;
